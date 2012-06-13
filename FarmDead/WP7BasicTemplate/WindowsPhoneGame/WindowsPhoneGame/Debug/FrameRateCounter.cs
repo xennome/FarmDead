@@ -10,14 +10,14 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
 
-namespace WindowsPhoneGame.Screens
+namespace WindowsPhoneGame.Debug
 {
     /// <summary>
     /// Componente de juego que implementa IUpdateable.
     /// </summary>
-    public class LogoScreen : Microsoft.Xna.Framework.GameComponent
+    public class FrameRateCounter : DrawableGameComponent
     {
-        public LogoScreen(Game game)
+        public FrameRateCounter(Game game)
             : base(game)
         {
             // TODO: genere aquí los componentes secundarios
@@ -41,7 +41,9 @@ namespace WindowsPhoneGame.Screens
         public override void Update(GameTime gameTime)
         {
             // TODO: agregue aquí su código de actualización
+            //int FPS = 1 / gameTime.ElapsedRealTime.TotalMilliseconds;
 
+            
             base.Update(gameTime);
         }
     }
