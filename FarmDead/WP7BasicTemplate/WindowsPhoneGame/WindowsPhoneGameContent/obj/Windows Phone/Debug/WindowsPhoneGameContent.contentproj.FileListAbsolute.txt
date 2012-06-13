@@ -1,0 +1,2 @@
+C:\Users\Berto\Desktop\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGameContent\obj\Windows Phone\Debug\WindowsPhoneGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGameContent\obj\Windows Phone\Debug\WindowsPhoneGameContent.contentprojResolveAssemblyReference.cache
