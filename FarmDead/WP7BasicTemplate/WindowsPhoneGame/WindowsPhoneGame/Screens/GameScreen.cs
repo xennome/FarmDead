@@ -58,7 +58,7 @@ namespace WindowsPhoneGame.Screens
         {
             spriteBatch.Begin();
 
-            spriteBatch.DrawString(GameGlobals.defaultFont, "Insert your game here!!!", new Vector2(180, 200), Color.Yellow);
+            spriteBatch.DrawString(GameGlobals.defaultFont, "Prueba!!!", new Vector2(180, 200), Color.Yellow);
             
             spriteBatch.End();
         }

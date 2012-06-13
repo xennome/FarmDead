@@ -46,11 +46,13 @@
       <Name>GameFont</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
+      <SubType>Designer</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Sounds\fx\" />
     <Folder Include="Sounds\songs\" />
+    <Folder Include="Textures\Objects\" />
     <Folder Include="Textures\Screens\" />
     <Folder Include="Textures\Sprites\" />
   </ItemGroup>
