@@ -10,6 +10,33 @@
       <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Fonts\GameFont.xnb</Output>
       <Time>2012-06-13T17:28:15.3896226+02:00</Time>
     </Item>
+    <Item>
+      <Source>Textures\Sprites\granger.png</Source>
+      <Name>Textures\Sprites\granger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\Sprites\granger.xnb</Output>
+      <Time>2012-06-14T18:31:17.7727599+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World\world1.jpg</Source>
+      <Name>Textures\World\world1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\World\world1.xnb</Output>
+      <Time>2012-06-14T18:42:42.3619161+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\thumbstick.png</Source>
+      <Name>Textures\GUI\thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\GUI\thumbstick.xnb</Output>
+      <Time>2012-06-14T19:19:27.346034+02:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{AF6B0A8D-6FCA-461E-BB21-BDD6D3B89D9E}</ContentProjectGUID>

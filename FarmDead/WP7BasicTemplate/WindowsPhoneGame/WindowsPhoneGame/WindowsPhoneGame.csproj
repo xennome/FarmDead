@@ -85,7 +85,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agents\Animation.cs" />
+    <Compile Include="Agents\Enemy.cs" />
+    <Compile Include="Agents\Hero.cs" />
     <Compile Include="BaseGame.cs" />
+    <Compile Include="Camera\Camera2D.cs" />
+    <Compile Include="Debug\FrameRateCounter.cs" />
     <Compile Include="Globals\GameGlobals.cs" />
     <Compile Include="Interfaces\IGraphicsControl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -98,6 +103,7 @@
     <Compile Include="Screens\ScreenManager.cs" />
     <Compile Include="Screens\LogoScreen.cs" />
     <Compile Include="Screens\Transitions\Transition.cs" />
+    <Compile Include="Thumbsticks\VirtualThumbsticks.cs" />
     <Compile Include="UI\Button.cs" />
     <Compile Include="UI\Image.cs" />
     <Compile Include="UI\Label.cs" />
@@ -123,8 +129,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Agents\" />
-    <Folder Include="Camera\" />
     <Folder Include="IA\" />
     <Folder Include="Particles\" />
   </ItemGroup>

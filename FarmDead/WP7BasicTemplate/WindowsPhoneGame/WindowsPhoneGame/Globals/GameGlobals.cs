@@ -7,6 +7,7 @@ using Microsoft.Xna.Framework.Content;
 public class GameGlobals
 {
     public static GraphicsDeviceManager graphicsManager;
+    public static SpriteBatch spriteBatch;
     public static GraphicsDevice device;
     public static ContentManager content;
     public static SpriteFont defaultFont;

@@ -28,7 +28,7 @@ namespace WindowsPhoneGame.Screens
         //Fields
         Thread thread;
         TimeSpan time;
-        Vector2 position = new Vector2(600, 430);
+        Vector2 position = new Vector2(500, 430);
 
         #region Properties
 

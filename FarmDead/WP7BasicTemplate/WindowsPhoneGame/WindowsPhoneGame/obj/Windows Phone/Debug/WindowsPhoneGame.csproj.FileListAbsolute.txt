@@ -21,6 +21,9 @@ C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneG
 C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\WindowsPhoneGame.xap
 C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\obj\Windows Phone\Debug\XapCacheFile.xml
 C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\Sprites\granger.xnb
+C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\World\world1.xnb
+C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\GUI\thumbstick.xnb
 C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\WindowsPhoneGame.xap
 C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\obj\Windows Phone\Debug\XapCacheFile.xml
 C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\AppManifest.xaml

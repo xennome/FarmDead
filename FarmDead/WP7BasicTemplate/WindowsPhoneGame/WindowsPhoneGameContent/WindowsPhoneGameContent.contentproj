@@ -54,7 +54,27 @@
     <Folder Include="Sounds\songs\" />
     <Folder Include="Textures\Objects\" />
     <Folder Include="Textures\Screens\" />
-    <Folder Include="Textures\Sprites\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\Sprites\granger.png">
+      <Name>granger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\World\world1.jpg">
+      <Name>world1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\GUI\thumbstick.png">
+      <Name>thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 
