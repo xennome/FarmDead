@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\Sprites\granger.xnb</Output>
-      <Time>2012-06-14T18:31:17.7727599+02:00</Time>
+      <Time>2012-06-14T19:35:47.0890721+02:00</Time>
     </Item>
     <Item>
       <Source>Textures\World\world1.jpg</Source>
@@ -26,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\World\world1.xnb</Output>
-      <Time>2012-06-14T18:42:42.3619161+02:00</Time>
+      <Time>2012-06-14T19:35:47.0930723+02:00</Time>
     </Item>
     <Item>
       <Source>Textures\GUI\thumbstick.png</Source>
@@ -35,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Berto\Documents\GitHub\FarmDead\FarmDead\WP7BasicTemplate\WindowsPhoneGame\WindowsPhoneGame\bin\Windows Phone\Debug\Content\Textures\GUI\thumbstick.xnb</Output>
-      <Time>2012-06-14T19:19:27.346034+02:00</Time>
+      <Time>2012-06-14T19:35:47.0880721+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
